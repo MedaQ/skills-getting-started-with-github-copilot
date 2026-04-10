@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations MedaQ! 🎉
+# 🎉 Congratulations Mohamed AQ! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
